@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="artwork">ArtWork</string>
+    <string name="artwork_artist_year">Artwork Artist (Year)</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="diego_velazquez">Diego Velázquez</string>
+    <string name="las_meninas_1656">Las meninas (1656)</string>
+    <string name="el_beso_1908_1909">El beso (1908-1909)</string>
+    <string name="gustav_klimt">Gustav Klimt</string>
+    <string name="el_aquelarre_1789_1798">El aquelarre (1789 - 1798)</string>
+    <string name="francisco_de_goya">Francisco de Goya</string>
+    <string name="la_joven_de_la_perla_1665">La joven de La perla (1665)</string>
+    <string name="johannes_vermeer">Johannes Vermeer</string>
+    <string name="naturaleza_muerta_resucitando_1963">Naturaleza Muerta Resucitando (1963)</string>
+    <string name="remedios_varos">Remedios Varos</string>
+</resources>
