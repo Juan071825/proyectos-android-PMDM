@@ -53,20 +53,19 @@ fun CuadriculaApp(modifier: Modifier = Modifier, topics : List<Topic>) {
 
     LazyVerticalGrid(
         columns = GridCells.Adaptive(minSize = 200.dp),
-        horizontalArrangement = Arrangement.spacedBy(8.dp),
+        horizontalArrangement = Arrangement.spacedBy(3.dp),
         verticalArrangement = Arrangement.spacedBy(8.dp),
-
+        modifier = modifier
     ) {
-        items(topics) { topic -> Cuadricula(modifier,topic) }
+        items(topics) { topic -> Cuadricula(topic = topic) }
     }
-
 }
 
 
 @Composable
 fun Cuadricula(modifier : Modifier = Modifier, topic: Topic) {
 
-    Card(Modifier.height(68.dp).width(200.dp)) {
+    Card(Modifier.height(80.dp).width(200.dp).padding(start = 5.dp, end = 5.dp)) {
         Row(Modifier.fillMaxSize().background(color = Color.LightGray)) {
             Image(
                 painter = painterResource(topic.imageRes),
