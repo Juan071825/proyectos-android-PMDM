@@ -1,3 +1,73 @@
 <resources>
-    <string name="app_name">proyecto</string>
+    <string name="DaysApp">proyecto</string>
+
+    <string name="Day1">Significado del nombre: En gaélico antiguo, Samhain significa literalmente «fin del verano».</string>
+    <string name="Day2">Año Nuevo celta: Representaba el inicio del nuevo año espiritual y agrícola para los pueblos celtas.</string>
+    <string name="Day3">División del año: El calendario celta dividía el año en dos mitades: una clara (verano) y una oscura (invierno).</string>
+    <string name="Day4">Inicio al atardecer: Para los celtas, los días no comenzaban a medianoche, sino al atardecer del 31 de octubre.</string>
+    <string name="Day5">Antigüedad: Sus primeras celebraciones se remontan a más de 3.000 años en las Islas Británicas y el norte de Europa.</string>
+    <string name="Day6">Raíz etimológica alternativa: Algunos lingüistas ligan Samhain a la raíz indoeuropea sem (unidad), interpretándolo como un momento de reunión.</string>
+    <string name="Day7">Conexión con los druidas: Los sacerdotes druidas presidían los rituales y encendían grandes hogueras sagradas.</string>
+    <string name="Day8">El velo fino: Se creía que la barrera entre el mundo físico y el espiritual se abría por una noche.</string>
+    <string name="Day9">Visitas de ancestros: Las almas de los familiares fallecidos regresaban a sus antiguos hogares.</string>
+    <string name="Day10">Ofrendas de comida: Las familias dejaban comida y bebida en las puertas para aplacar a los espíritus errantes.</string>
+    <string name="Day11">Uso de disfraces: La gente se cubría con pieles y máscaras para confundirse con los espíritus y evitar ser atacados.</string>
+    <string name="Day12">El origen de los nabos: Antes que las calabazas, en Europa se vaciaban nabos para tallar rostros terroríficos.</string>
+    <string name="Day13">Velas protectoras: Se colocaban luces o brasas dentro de los nabos tallados para iluminar el camino a los buenos espíritus y espantar a los malos.</string>
+    <string name="Day14">Hogueras comunales: Cada familia apagaba el fuego de su hogar y encendía uno nuevo tomado de la gran hoguera druida para tener protección.</string>
+    <string name="Day15">Adivinanzas y fututos: Los druidas aprovechaban la energía de la noche para predecir el clima del invierno y las cosechas.</string>
+    <string name="Day16">La llegada del cristianismo: Con la expansión de la Iglesia, la fiesta pagana fue adaptada para evitar su desaparición.</string>
+    <string name="Day17">Día de Todos los Santos: En el siglo VIII, el papa Gregorio III trasladó el Día de Todos los Santos al 1 de noviembre.</string>
+    <string name="Day18">Día de los Fieles Difuntos: El 2 de noviembre se consolidó después como el día dedicado a recordar a todos los difuntos.</string>
+    <string name="Day19">De All Hallows" Eve a Halloween: La víspera del Día de Todos los Santos (All Hallows' Eve) derivó fonéticamente en la palabra Halloween.</string>
+    <string name="Day20">El salto a América: La hambruna de la patata en Irlanda en el siglo XIX llevó la tradición a Estados Unidos, donde evolucionó comercialmente.</string>
+    <string name="Day21">El cambio al calabaza: En América, el nabo fue sustituido por la calabaza, un fruto mucho más grande y fácil de tallar.</string>
+    <string name="Day22">Tradición en Galicia: En Galicia y el norte de Portugal, el Samaín sobrevivió arraigado a la cultura popular durante siglos.</string>
+    <string name="Day23">El vaciado de calaveras de nabo: En pueblos gallegos era tradicional que los niños vaciasen calabazas o nabos (caliveras) y los llevasen por las calles.</string>
+    <string name="Day24">Vinculación con el Magosto: El Samaín en Galicia guarda estrecha relación con el magosto (la fiesta de las castañas de noviembre).</string>
+    <string name="Day25">Collares de castañas: En algunas zonas de A Coruña y otras comarcas, los jóvenes lucían collares hechos con castañas durante estas fechas.</string>
+    <string name="Day26">Recuperación moderna: Desde finales del siglo XX, se vive un fuerte movimiento de recuperación y puesta en valor del Samaín tradicional frente al Halloween puramente comercial.</string>
+    <string name="Day27">Otras fiestas hermanas: En el área celta bretona existían festividades paralelas como el Calan Gaeaf en Gales o el Kalan Goañv en Bretaña.</string>
+    <string name="Day28">Paralelismos universales: Comparte la misma filosofía de reencuentro con los ancestros que el Día de Muertos en México.</string>
+    <string name="Day29">Fechas de cierre: Oficialmente, el ciclo ritual celta concluía tras varios días de honras que culminaban hacia el 2 de noviembre.</string>
+    <string name="Day30">Espíritu atemporal: Hoy en día simboliza el respeto por los ciclos de la naturaleza, la memoria de los que ya no están y el umbral hacia el descanso invernal.</string>
+
+    <string name="Day">Day</string>
+
+    <string name="One">1</string>
+    <string name="Two">2</string>
+    <string name="Three">3</string>
+    <string name="Four">4</string>
+    <string name="Five">5</string>
+    <string name="Six">6</string>
+    <string name="Seven">7</string>
+    <string name="Eight">8</string>
+    <string name="Nine">9</string>
+    <string name="Ten">10</string>
+    <string name="Eleven">11</string>
+    <string name="Twelve">proyecto</string>
+    <string name="Thirteen">proyecto</string>
+    <string name="Fourteen">proyecto</string>
+    <string name="Fifteen">proyecto</string>
+    <string name="Sixteen">proyecto</string>
+    <string name="Seventeen">proyecto</string>
+    <string name="Eighteen">proyecto</string>
+    <string name="Nineteen">proyecto</string>
+    <string name="Twenty">proyecto</string>
+    <string name="TwentyOne">proyecto</string>
+    <string name="TwentyTwo">proyecto</string>
+    <string name="TwentyThree">proyecto</string>
+    <string name="TwentyFour">proyecto</string>
+    <string name="TwentyFive">proyecto</string>
+    <string name="TwentySix">proyecto</string>
+    <string name="TwentySeven">proyecto</string>
+    <string name="TwentyEight">proyecto</string>
+    <string name="TwentyNine">proyecto</string>
+    <string name="Thirty">proyecto</string>
+
+
+
+
+
+
 </resources>

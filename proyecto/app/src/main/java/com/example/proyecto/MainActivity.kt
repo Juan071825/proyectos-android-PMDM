@@ -4,6 +4,7 @@ import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
+import androidx.annotation.DrawableRes
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material3.Scaffold
@@ -12,6 +13,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.example.proyecto.ui.theme.ProyectoTheme
+import com.example.proyecto.models.Day
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -20,8 +22,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             ProyectoTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
-                    Greeting(
-                        name = "Android",
+                    DaysApp(
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
@@ -31,17 +32,28 @@ class MainActivity : ComponentActivity() {
 }
 
 @Composable
-fun Greeting(name: String, modifier: Modifier = Modifier) {
-    Text(
-        text = "Hello $name!",
-        modifier = modifier
-    )
+fun DaysApp( modifier: Modifier = Modifier) {
+
+}
+
+fun DayCard(day: Day, modifier: Modifier = Modifier){
+
+
+
 }
 
 @Preview(showBackground = true)
 @Composable
-fun GreetingPreview() {
+fun DayCardPreview() {
     ProyectoTheme {
-        Greeting("Android")
+        DayCard(Day(R.drawable.androidparty, R.string.DaysApp, R.string.One))
+    }
+}
+
+@Preview(showBackground = true)
+@Composable
+fun DayAppPreview() {
+    ProyectoTheme {
+        DaysApp()
     }
 }
